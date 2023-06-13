@@ -9,9 +9,9 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: v0.0.2
-    created: "2023-06-13T00:01:39.163688307Z"
+    created: "2023-06-13T00:12:52.175529187Z"
     description: Ingress Controller based on Cloudflare Tunnel
-    digest: 0c7846a25cd4ff53057b3fc3bedc53505da88fd816d7ab266eeebbe87e52e27c
+    digest: b843c4c3b478abe9140c7826d7e3dae737199db64a4a299ee458fbfc22d100ed
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
     keywords:
     - cloudflare
@@ -28,4 +28,4 @@ entries:
     urls:
     - https://helm.strrl.dev/cloudflare-tunnel-ingress-controller-v0.0.2.tgz
     version: v0.0.2
-generated: "2023-06-13T00:01:39.162740883Z"
+generated: "2023-06-13T00:12:52.174735181Z"
