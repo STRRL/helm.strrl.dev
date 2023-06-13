@@ -4,6 +4,7 @@ Add strrl.dev repository to Helm repos:
 
 ```bash
 helm repo add strrl.dev https://helm.strrl.dev
+helm repo update
 ```
 
 Search available version:
