@@ -8,6 +8,33 @@ entries:
       artifacthub.io/operatorCapabilities: Seamless Upgrades
       artifacthub.io/prerelease: "true"
     apiVersion: v2
+    appVersion: 0.0.7
+    created: "2023-06-30T11:51:52.656736053Z"
+    description: Ingress Controller based on Cloudflare Tunnel
+    digest: 36b3a80fd8f1fd962ef13ef887f2284d6857f61ead80c2f52cf355366fb2c8fb
+    home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
+    keywords:
+    - cloudflare
+    - cloudflare-tunnel
+    - ingress
+    - ingress-controller
+    maintainers:
+    - email: im@strrl.dev
+      name: STRRL
+    name: cloudflare-tunnel-ingress-controller
+    sources:
+    - https://github.com/STRRL/cloudflare-tunnel-ingress-controller
+    type: application
+    urls:
+    - https://helm.strrl.dev/cloudflare-tunnel-ingress-controller-0.0.7.tgz
+    version: 0.0.7
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/operator: "true"
+      artifacthub.io/operatorCapabilities: Seamless Upgrades
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
     appVersion: 0.0.6
     created: "2023-06-30T11:21:03.857553685Z"
     description: Ingress Controller based on Cloudflare Tunnel
@@ -109,4 +136,4 @@ entries:
     urls:
     - https://helm.strrl.dev/cloudflare-tunnel-ingress-controller-0.0.2.tgz
     version: 0.0.2
-generated: "2023-06-30T11:21:03.856689977Z"
+generated: "2023-06-30T11:51:52.654796723Z"
