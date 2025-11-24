@@ -433,4 +433,31 @@ entries:
     urls:
     - https://helm.strrl.dev/cloudflare-tunnel-ingress-controller-0.0.2.tgz
     version: 0.0.2
-generated: "2025-11-03T19:08:41.4888734Z"
+  supabase-operator:
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/operator: "true"
+      artifacthub.io/operatorCapabilities: Seamless Upgrades
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-11-24T05:53:24.917671226Z"
+    description: Kubernetes operator that provisions Supabase projects and dependencies.
+    digest: f7e804c1e9f227fcdbf17637714c6d787e761d8312cac5c489ad43909544ea79
+    home: https://github.com/STRRL/supabase-operator
+    keywords:
+    - supabase
+    - operator
+    - kubernetes
+    maintainers:
+    - email: im@strrl.dev
+      name: STRRL
+    name: supabase-operator
+    sources:
+    - https://github.com/STRRL/supabase-operator
+    type: application
+    urls:
+    - https://helm.strrl.dev/supabase-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-24T05:53:24.916612714Z"
