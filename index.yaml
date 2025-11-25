@@ -9,7 +9,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.21
-    created: "2025-11-03T19:08:41.489492928Z"
+    created: "2025-11-24T21:40:34.626603-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 8dfafcbc441db9f4d3c530e0d62ed9a9d042593700e2726a99703776000bff8a
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -36,7 +36,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.18
-    created: "2025-02-10T03:04:46.729811773Z"
+    created: "2025-11-24T21:40:34.626174-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: f276a36b1492871f8076d664df040f9449599a14564b750dedf04bcfed580c85
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -63,7 +63,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.16
-    created: "2024-11-06T17:23:52.457432444Z"
+    created: "2025-11-24T21:40:34.62594-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 4cf942b4c8016c93d0f7722dca394c2ad5bbfa75d49a1478165988c1ee8c0099
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -90,7 +90,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.15
-    created: "2024-10-23T05:01:43.014231979Z"
+    created: "2025-11-24T21:40:34.625714-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 2d692cb8fc4a2e4e1467680519a5f6954edec0d0b70ee4401f53d5d8f4b0f56a
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -117,7 +117,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.14
-    created: "2024-10-17T03:36:43.383382799Z"
+    created: "2025-11-24T21:40:34.625486-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: a60b2981a36631c93775351e74c6dfe396bd6fca036d64b1754336371dbba558
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -144,7 +144,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.13
-    created: "2024-09-15T19:47:24.012891023Z"
+    created: "2025-11-24T21:40:34.625269-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: dd27101dc4bf6fcc126ea1320c6b6f851f6dd89b7d536540dce089babe05f83e
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -171,7 +171,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.12
-    created: "2024-08-25T22:58:45.506292046Z"
+    created: "2025-11-24T21:40:34.625005-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 5f97843c1e673742d1eaff553ed4a81075822ce597ec05840fc38e278c71fa28
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -198,7 +198,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.11
-    created: "2024-06-03T12:12:26.031787604Z"
+    created: "2025-11-24T21:40:34.624784-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 10edaa89440a022c72897eee424af4d7836cab2a0a4dffd0b481189abc333b42
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -225,7 +225,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.10
-    created: "2024-05-31T14:18:17.684793386Z"
+    created: "2025-11-24T21:40:34.62455-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 2e821140b766163b68427a3cfad0bd1d18e5f45da9236fc783d8446d14a522ec
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -252,7 +252,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.9
-    created: "2023-11-25T08:47:34.30885987Z"
+    created: "2025-11-24T21:40:34.627794-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: c0f8e2235fb8a701f971f2f89b230767b60361b01738010857269692224c18cd
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -279,7 +279,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.8
-    created: "2023-06-30T12:17:51.436577334Z"
+    created: "2025-11-24T21:40:34.62758-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 6de9aca005de0baa4d9e47a14baf0458858de65c82fa27f846bf626453c54f1a
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -306,7 +306,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.7
-    created: "2023-06-30T11:51:52.656736053Z"
+    created: "2025-11-24T21:40:34.627386-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 36b3a80fd8f1fd962ef13ef887f2284d6857f61ead80c2f52cf355366fb2c8fb
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -333,7 +333,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.6
-    created: "2023-06-30T11:21:03.857553685Z"
+    created: "2025-11-24T21:40:34.627191-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: cc8ac7459f58419bcf97730996c9cca3eb41768e1178c6292733bc0b6eeec794
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -360,7 +360,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.4
-    created: "2023-06-18T05:40:03.582053307Z"
+    created: "2025-11-24T21:40:34.626989-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: ad7c8a919abf5768fb111084d3255bd36c8d791e41a1489955f66c7a61c33acf
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -387,7 +387,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.3
-    created: "2023-06-17T23:10:30.929588484Z"
+    created: "2025-11-24T21:40:34.626794-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: a779656c6259f4c2223ac692fa06df51695752278771902052e065d497feac74
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -414,7 +414,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.2
-    created: "2023-06-13T00:30:30.948153145Z"
+    created: "2025-11-24T21:40:34.626361-08:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 359fadfe5b3d1ee30dfc398db93f187c99e958b55697c0ffb85a6e3db6dd875e
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -442,7 +442,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2025-11-25T05:15:29.357944197Z"
+    created: "2025-11-24T21:40:34.628896-08:00"
     description: Kubernetes operator that provisions Supabase projects and dependencies.
     digest: 223be404fc58078754aab8f376a9e33ff5864d1c7af63f4539ca38fee691568d
     home: https://github.com/STRRL/supabase-operator
@@ -460,212 +460,4 @@ entries:
     urls:
     - https://helm.strrl.dev/supabase-operator-0.2.0.tgz
     version: 0.2.0
-  - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Seamless Upgrades
-      artifacthub.io/prerelease: "true"
-    apiVersion: v2
-    appVersion: 0.1.7
-    created: "2025-11-25T05:12:43.353563061Z"
-    description: Kubernetes operator that provisions Supabase projects and dependencies.
-    digest: a5e714dc40469d971b1582eba3dd4d1b703a17653d3365fb152fc8fb9a5decbe
-    home: https://github.com/STRRL/supabase-operator
-    keywords:
-    - supabase
-    - operator
-    - kubernetes
-    maintainers:
-    - email: im@strrl.dev
-      name: STRRL
-    name: supabase-operator
-    sources:
-    - https://github.com/STRRL/supabase-operator
-    type: application
-    urls:
-    - https://helm.strrl.dev/supabase-operator-0.1.7.tgz
-    version: 0.1.7
-  - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Seamless Upgrades
-      artifacthub.io/prerelease: "true"
-    apiVersion: v2
-    appVersion: 0.1.6
-    created: "2025-11-25T05:05:21.446381209Z"
-    description: Kubernetes operator that provisions Supabase projects and dependencies.
-    digest: 12d7dcaa799ed83d4a1f28d57023a3b1ca44fc0941618055698e3750ce17ea15
-    home: https://github.com/STRRL/supabase-operator
-    keywords:
-    - supabase
-    - operator
-    - kubernetes
-    maintainers:
-    - email: im@strrl.dev
-      name: STRRL
-    name: supabase-operator
-    sources:
-    - https://github.com/STRRL/supabase-operator
-    type: application
-    urls:
-    - https://helm.strrl.dev/supabase-operator-0.1.6.tgz
-    version: 0.1.6
-  - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Seamless Upgrades
-      artifacthub.io/prerelease: "true"
-    apiVersion: v2
-    appVersion: 0.1.5
-    created: "2025-11-25T04:14:43.985322179Z"
-    description: Kubernetes operator that provisions Supabase projects and dependencies.
-    digest: e4f97e36d7a43418aa3ca751a7b9c6f5f145f64ea8960d026e2c541e18676e8c
-    home: https://github.com/STRRL/supabase-operator
-    keywords:
-    - supabase
-    - operator
-    - kubernetes
-    maintainers:
-    - email: im@strrl.dev
-      name: STRRL
-    name: supabase-operator
-    sources:
-    - https://github.com/STRRL/supabase-operator
-    type: application
-    urls:
-    - https://helm.strrl.dev/supabase-operator-0.1.5.tgz
-    version: 0.1.5
-  - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Seamless Upgrades
-      artifacthub.io/prerelease: "true"
-    apiVersion: v2
-    appVersion: 0.1.4
-    created: "2025-11-24T06:50:00.267934409Z"
-    description: Kubernetes operator that provisions Supabase projects and dependencies.
-    digest: 4204af8949f2d2bf1883a8adf17a5b4a70927e923221a45a783f573727832208
-    home: https://github.com/STRRL/supabase-operator
-    keywords:
-    - supabase
-    - operator
-    - kubernetes
-    maintainers:
-    - email: im@strrl.dev
-      name: STRRL
-    name: supabase-operator
-    sources:
-    - https://github.com/STRRL/supabase-operator
-    type: application
-    urls:
-    - https://helm.strrl.dev/supabase-operator-0.1.4.tgz
-    version: 0.1.4
-  - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Seamless Upgrades
-      artifacthub.io/prerelease: "true"
-    apiVersion: v2
-    appVersion: 0.1.3
-    created: "2025-11-24T06:32:45.461883068Z"
-    description: Kubernetes operator that provisions Supabase projects and dependencies.
-    digest: 31f52d686a3439aa6bc69ba0cd8b8654b516fd59f8844f5371be23f5169d5f07
-    home: https://github.com/STRRL/supabase-operator
-    keywords:
-    - supabase
-    - operator
-    - kubernetes
-    maintainers:
-    - email: im@strrl.dev
-      name: STRRL
-    name: supabase-operator
-    sources:
-    - https://github.com/STRRL/supabase-operator
-    type: application
-    urls:
-    - https://helm.strrl.dev/supabase-operator-0.1.3.tgz
-    version: 0.1.3
-  - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Seamless Upgrades
-      artifacthub.io/prerelease: "true"
-    apiVersion: v2
-    appVersion: 0.1.2
-    created: "2025-11-24T06:29:16.781654338Z"
-    description: Kubernetes operator that provisions Supabase projects and dependencies.
-    digest: eb3cfa0161fca2947c7c9c083be07bfd8e3cce9140e9835f5e567090d87397b8
-    home: https://github.com/STRRL/supabase-operator
-    keywords:
-    - supabase
-    - operator
-    - kubernetes
-    maintainers:
-    - email: im@strrl.dev
-      name: STRRL
-    name: supabase-operator
-    sources:
-    - https://github.com/STRRL/supabase-operator
-    type: application
-    urls:
-    - https://helm.strrl.dev/supabase-operator-0.1.2.tgz
-    version: 0.1.2
-  - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Seamless Upgrades
-      artifacthub.io/prerelease: "true"
-    apiVersion: v2
-    appVersion: 0.1.1
-    created: "2025-11-24T06:27:25.732792051Z"
-    description: Kubernetes operator that provisions Supabase projects and dependencies.
-    digest: 7677de2041dfa4a6e62fe4bea1bc611889ad8016a6969721f8c67a9ef05f9825
-    home: https://github.com/STRRL/supabase-operator
-    keywords:
-    - supabase
-    - operator
-    - kubernetes
-    maintainers:
-    - email: im@strrl.dev
-      name: STRRL
-    name: supabase-operator
-    sources:
-    - https://github.com/STRRL/supabase-operator
-    type: application
-    urls:
-    - https://helm.strrl.dev/supabase-operator-0.1.1.tgz
-    version: 0.1.1
-  - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
-      artifacthub.io/license: Apache-2.0
-      artifacthub.io/operator: "true"
-      artifacthub.io/operatorCapabilities: Seamless Upgrades
-      artifacthub.io/prerelease: "true"
-    apiVersion: v2
-    appVersion: 0.1.0
-    created: "2025-11-24T05:53:24.917671226Z"
-    description: Kubernetes operator that provisions Supabase projects and dependencies.
-    digest: f7e804c1e9f227fcdbf17637714c6d787e761d8312cac5c489ad43909544ea79
-    home: https://github.com/STRRL/supabase-operator
-    keywords:
-    - supabase
-    - operator
-    - kubernetes
-    maintainers:
-    - email: im@strrl.dev
-      name: STRRL
-    name: supabase-operator
-    sources:
-    - https://github.com/STRRL/supabase-operator
-    type: application
-    urls:
-    - https://helm.strrl.dev/supabase-operator-0.1.0.tgz
-    version: 0.1.0
-generated: "2025-11-25T05:15:29.357040878Z"
+generated: "2025-11-24T21:40:34.624003-08:00"
