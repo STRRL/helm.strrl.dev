@@ -441,6 +441,32 @@ entries:
       artifacthub.io/operatorCapabilities: Seamless Upgrades
       artifacthub.io/prerelease: "true"
     apiVersion: v2
+    appVersion: 0.1.5
+    created: "2025-11-25T04:14:43.985322179Z"
+    description: Kubernetes operator that provisions Supabase projects and dependencies.
+    digest: e4f97e36d7a43418aa3ca751a7b9c6f5f145f64ea8960d026e2c541e18676e8c
+    home: https://github.com/STRRL/supabase-operator
+    keywords:
+    - supabase
+    - operator
+    - kubernetes
+    maintainers:
+    - email: im@strrl.dev
+      name: STRRL
+    name: supabase-operator
+    sources:
+    - https://github.com/STRRL/supabase-operator
+    type: application
+    urls:
+    - https://helm.strrl.dev/supabase-operator-0.1.5.tgz
+    version: 0.1.5
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/operator: "true"
+      artifacthub.io/operatorCapabilities: Seamless Upgrades
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
     appVersion: 0.1.4
     created: "2025-11-24T06:50:00.267934409Z"
     description: Kubernetes operator that provisions Supabase projects and dependencies.
@@ -564,4 +590,4 @@ entries:
     urls:
     - https://helm.strrl.dev/supabase-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-24T06:50:00.267024615Z"
+generated: "2025-11-25T04:14:43.983981705Z"
