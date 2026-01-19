@@ -460,4 +460,26 @@ entries:
     urls:
     - https://helm.strrl.dev/supabase-operator-0.2.0.tgz
     version: 0.2.0
-generated: "2025-11-24T21:40:34.624003-08:00"
+  wonder-mesh-net:
+  - apiVersion: v2
+    appVersion: v2026.01.19.rev2
+    created: "2026-01-19T19:58:25.045411686Z"
+    description: What a wonder, comrade.
+    digest: cdf3b94f26ccd209e82c19716d9655ef14017bd1ebc9e0e3686319fcede7d7a0
+    keywords:
+    - headscale
+    - tailscale
+    - mesh
+    - network
+    - NAT
+    maintainers:
+    - email: me@strrl.dev
+      name: strrl
+    name: wonder-mesh-net
+    sources:
+    - https://github.com/strrl/wonder-mesh-net
+    type: application
+    urls:
+    - https://helm.strrl.dev/wonder-mesh-net-2026.119.2.tgz
+    version: 2026.119.2
+generated: "2026-01-19T19:58:25.044432747Z"
