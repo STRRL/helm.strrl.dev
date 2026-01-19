@@ -483,6 +483,27 @@ entries:
     - https://helm.strrl.dev/wonder-mesh-net-2026.119.2.tgz
     version: 2026.119.2
   - apiVersion: v2
+    appVersion: v2026.119.0
+    created: "2026-01-19T20:08:16.553125312Z"
+    description: What a wonder, comrade.
+    digest: 22de14e927f3ee91aa5791e3bde8950441b0e877f641f79b42f2e131520d3f0e
+    keywords:
+    - headscale
+    - tailscale
+    - mesh
+    - network
+    - NAT
+    maintainers:
+    - email: me@strrl.dev
+      name: strrl
+    name: wonder-mesh-net
+    sources:
+    - https://github.com/strrl/wonder-mesh-net
+    type: application
+    urls:
+    - https://helm.strrl.dev/wonder-mesh-net-2026.119.0.tgz
+    version: 2026.119.0
+  - apiVersion: v2
     appVersion: v2026.01.19.rev3
     created: "2026-01-19T20:05:04.07377081Z"
     description: What a wonder, comrade.
@@ -503,4 +524,4 @@ entries:
     urls:
     - https://helm.strrl.dev/wonder-mesh-net-0.3.0.tgz
     version: 0.3.0
-generated: "2026-01-19T20:05:04.072799498Z"
+generated: "2026-01-19T20:08:16.551973821Z"
