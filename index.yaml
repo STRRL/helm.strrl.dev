@@ -252,6 +252,32 @@ entries:
       artifacthub.io/operatorCapabilities: Seamless Upgrades
       artifacthub.io/prerelease: "true"
     apiVersion: v2
+    appVersion: 2026.7.25
+    created: "2026-07-25T19:42:36.078515658Z"
+    description: Kubernetes operator that provisions Supabase projects and dependencies.
+    digest: 3cfe3eb631534937361ba669474ec9ec3acfa9b58016bcdcc467ddf66289c2ce
+    home: https://github.com/STRRL/supabase-operator
+    keywords:
+    - supabase
+    - operator
+    - kubernetes
+    maintainers:
+    - email: im@strrl.dev
+      name: STRRL
+    name: supabase-operator
+    sources:
+    - https://github.com/STRRL/supabase-operator
+    type: application
+    urls:
+    - https://helm.strrl.dev/supabase-operator-2026.7.25.tgz
+    version: 2026.7.25
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/operator: "true"
+      artifacthub.io/operatorCapabilities: Seamless Upgrades
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
     appVersion: 0.2.0
     created: "2025-11-24T21:40:34.628896-08:00"
     description: Kubernetes operator that provisions Supabase projects and dependencies.
@@ -482,4 +508,4 @@ entries:
     urls:
     - https://helm.strrl.dev/wonder-mesh-net-2026.119.4.tgz
     version: 2026.119.4
-generated: "2026-07-20T05:39:16.613134673Z"
+generated: "2026-07-25T19:42:36.076739424Z"
