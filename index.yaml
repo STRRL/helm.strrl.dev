@@ -8,8 +8,35 @@ entries:
       artifacthub.io/operatorCapabilities: Seamless Upgrades
       artifacthub.io/prerelease: "true"
     apiVersion: v2
+    appVersion: 0.1.0-rc.0
+    created: "2026-08-09T14:46:56.465948-07:00"
+    description: Ingress Controller based on Cloudflare Tunnel
+    digest: 9ce2f54cae6f509d35ef08ce256a7a02c12e14bcd146a984113eec34a36d15b3
+    home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
+    keywords:
+    - cloudflare
+    - cloudflare-tunnel
+    - ingress
+    - ingress-controller
+    maintainers:
+    - email: im@strrl.dev
+      name: STRRL
+    name: cloudflare-tunnel-ingress-controller
+    sources:
+    - https://github.com/STRRL/cloudflare-tunnel-ingress-controller
+    type: application
+    urls:
+    - https://helm.strrl.dev/cloudflare-tunnel-ingress-controller-0.1.0-rc.0.tgz
+    version: 0.1.0-rc.0
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/operator: "true"
+      artifacthub.io/operatorCapabilities: Seamless Upgrades
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
     appVersion: 0.0.24
-    created: "2026-07-20T05:39:16.614079666Z"
+    created: "2026-08-09T14:46:56.464985-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 0f8d4984a06c95d44e552f42b2633a59a94acdc8b8c7b2991a5d518b20c848a7
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -36,7 +63,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.23
-    created: "2026-03-20T02:47:18.577645154Z"
+    created: "2026-08-09T14:46:56.464662-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: fe2517e03f82d74b1bbac9f6a4deb9c784a4626d545cdf7e2309cd0d8e8084a6
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -63,7 +90,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.22
-    created: "2026-02-12T04:56:59.206350708Z"
+    created: "2026-08-09T14:46:56.464419-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 99bf6cab735f2ef83a59d8967c1ff27b05cc341eac3015839b538790e053f09d
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -90,7 +117,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.21
-    created: "2025-11-24T21:40:34.626603-08:00"
+    created: "2026-08-09T14:46:56.464147-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 8dfafcbc441db9f4d3c530e0d62ed9a9d042593700e2726a99703776000bff8a
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -117,7 +144,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.18
-    created: "2025-11-24T21:40:34.626174-08:00"
+    created: "2026-08-09T14:46:56.463911-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: f276a36b1492871f8076d664df040f9449599a14564b750dedf04bcfed580c85
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -144,7 +171,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.16
-    created: "2025-11-24T21:40:34.62594-08:00"
+    created: "2026-08-09T14:46:56.463698-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 4cf942b4c8016c93d0f7722dca394c2ad5bbfa75d49a1478165988c1ee8c0099
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -171,7 +198,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.15
-    created: "2025-11-24T21:40:34.625714-08:00"
+    created: "2026-08-09T14:46:56.463475-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: 2d692cb8fc4a2e4e1467680519a5f6954edec0d0b70ee4401f53d5d8f4b0f56a
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -198,7 +225,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.14
-    created: "2025-11-24T21:40:34.625486-08:00"
+    created: "2026-08-09T14:46:56.46325-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: a60b2981a36631c93775351e74c6dfe396bd6fca036d64b1754336371dbba558
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -225,7 +252,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.13
-    created: "2025-11-24T21:40:34.625269-08:00"
+    created: "2026-08-09T14:46:56.463031-07:00"
     description: Ingress Controller based on Cloudflare Tunnel
     digest: dd27101dc4bf6fcc126ea1320c6b6f851f6dd89b7d536540dce089babe05f83e
     home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
@@ -253,7 +280,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 2026.7.25
-    created: "2026-07-25T19:42:36.078515658Z"
+    created: "2026-08-09T14:46:56.466819-07:00"
     description: Kubernetes operator that provisions Supabase projects and dependencies.
     digest: 3cfe3eb631534937361ba669474ec9ec3acfa9b58016bcdcc467ddf66289c2ce
     home: https://github.com/STRRL/supabase-operator
@@ -279,7 +306,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2025-11-24T21:40:34.628896-08:00"
+    created: "2026-08-09T14:46:56.466394-07:00"
     description: Kubernetes operator that provisions Supabase projects and dependencies.
     digest: 223be404fc58078754aab8f376a9e33ff5864d1c7af63f4539ca38fee691568d
     home: https://github.com/STRRL/supabase-operator
@@ -300,7 +327,7 @@ entries:
   wonder-mesh-net:
   - apiVersion: v2
     appVersion: v2026.629.0
-    created: "2026-06-29T06:03:57.503645196Z"
+    created: "2026-08-09T14:46:56.471571-07:00"
     description: What a wonder, comrade.
     digest: e74573737299c4948bedc881b088c4f87d69ac19f588a59d206eb6b4bead5ca3
     keywords:
@@ -321,7 +348,7 @@ entries:
     version: 2026.629.0
   - apiVersion: v2
     appVersion: v2026.626.0
-    created: "2026-06-26T17:14:28.870761705Z"
+    created: "2026-08-09T14:46:56.471154-07:00"
     description: What a wonder, comrade.
     digest: 0da6969a166e7a457bb42f70905fb41a3f5420b0b22d323b14b8441f422b4d1c
     keywords:
@@ -342,7 +369,7 @@ entries:
     version: 2026.626.0
   - apiVersion: v2
     appVersion: v2026.319.1
-    created: "2026-03-20T02:21:30.505279363Z"
+    created: "2026-08-09T14:46:56.470726-07:00"
     description: What a wonder, comrade.
     digest: 4c81b74b0b57d12bd95e86b5fec27c923b7e45c7b6d472405986274d4cb12256
     keywords:
@@ -363,7 +390,7 @@ entries:
     version: 2026.319.1
   - apiVersion: v2
     appVersion: v2026.319.0
-    created: "2026-03-18T16:50:35.972600773Z"
+    created: "2026-08-09T14:46:56.470313-07:00"
     description: What a wonder, comrade.
     digest: dac1a09a871137d2164818057b7e53885e4b020e9b93e75480e7c916eefc1e58
     keywords:
@@ -384,7 +411,7 @@ entries:
     version: 2026.319.0
   - apiVersion: v2
     appVersion: v2026.316.0
-    created: "2026-03-17T05:35:50.566965438Z"
+    created: "2026-08-09T14:46:56.469864-07:00"
     description: What a wonder, comrade.
     digest: e365caf5bfc99fe601cb2e061e894f6ddadf115af38a9e725f3f4d32ff128e47
     keywords:
@@ -405,7 +432,7 @@ entries:
     version: 2026.316.0
   - apiVersion: v2
     appVersion: v2026.211.0
-    created: "2026-02-11T07:24:03.522282268Z"
+    created: "2026-08-09T14:46:56.469396-07:00"
     description: What a wonder, comrade.
     digest: 2e3fd4d7de4ac60a296dbb0d1ad902ed3053c07e452618d681b8224dc8937e84
     keywords:
@@ -426,7 +453,7 @@ entries:
     version: 2026.211.0
   - apiVersion: v2
     appVersion: v2026.203.0
-    created: "2026-02-04T01:58:22.802683267Z"
+    created: "2026-08-09T14:46:56.468646-07:00"
     description: What a wonder, comrade.
     digest: 4881c96b54906f89c995d49904b46e60640d574c4971df2fee400e7a89fdfb8c
     keywords:
@@ -447,7 +474,7 @@ entries:
     version: 2026.203.0
   - apiVersion: v2
     appVersion: v2026.126.1
-    created: "2026-01-27T06:56:13.769321427Z"
+    created: "2026-08-09T14:46:56.468182-07:00"
     description: What a wonder, comrade.
     digest: a2234a39996db8369e6331030e29bb934c468a2b24c6ba013d10dbf2ecbaa048
     keywords:
@@ -468,7 +495,7 @@ entries:
     version: 2026.126.1
   - apiVersion: v2
     appVersion: v2026.126.0
-    created: "2026-01-27T06:43:21.106941449Z"
+    created: "2026-08-09T14:46:56.467737-07:00"
     description: What a wonder, comrade.
     digest: 1db5df4df9030921373b0b7ca6533507e1d52ca7a04966db76ee9fab818d7c5c
     keywords:
@@ -489,7 +516,7 @@ entries:
     version: 2026.126.0
   - apiVersion: v2
     appVersion: v2026.119.4
-    created: "2026-01-20T04:04:34.690795322Z"
+    created: "2026-08-09T14:46:56.467286-07:00"
     description: What a wonder, comrade.
     digest: 2c6d9dbe693a92e5b0600e917d74b036feb696df8a737ba690c4d09565b9b104
     keywords:
@@ -508,4 +535,4 @@ entries:
     urls:
     - https://helm.strrl.dev/wonder-mesh-net-2026.119.4.tgz
     version: 2026.119.4
-generated: "2026-07-25T19:42:36.076739424Z"
+generated: "2026-08-09T14:46:56.462514-07:00"
