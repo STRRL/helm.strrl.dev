@@ -8,6 +8,33 @@ entries:
       artifacthub.io/operatorCapabilities: Seamless Upgrades
       artifacthub.io/prerelease: "true"
     apiVersion: v2
+    appVersion: 0.1.0-rc.1
+    created: "2026-08-11T20:37:21.082635039Z"
+    description: Ingress Controller based on Cloudflare Tunnel
+    digest: fe50be69ebd723cd6a29c56297c7d263c57ddfa24b8a0f50d62699b812a2154d
+    home: https://github.com/STRRL/cloudflare-tunnel-ingress-controller
+    keywords:
+    - cloudflare
+    - cloudflare-tunnel
+    - ingress
+    - ingress-controller
+    maintainers:
+    - email: im@strrl.dev
+      name: STRRL
+    name: cloudflare-tunnel-ingress-controller
+    sources:
+    - https://github.com/STRRL/cloudflare-tunnel-ingress-controller
+    type: application
+    urls:
+    - https://helm.strrl.dev/cloudflare-tunnel-ingress-controller-0.1.0-rc.1.tgz
+    version: 0.1.0-rc.1
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/operator: "true"
+      artifacthub.io/operatorCapabilities: Seamless Upgrades
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
     appVersion: 0.1.0-rc.0
     created: "2026-08-09T21:57:40.260797418Z"
     description: Ingress Controller based on Cloudflare Tunnel
@@ -535,4 +562,4 @@ entries:
     urls:
     - https://helm.strrl.dev/wonder-mesh-net-2026.119.4.tgz
     version: 2026.119.4
-generated: "2026-08-09T21:57:40.259439173Z"
+generated: "2026-08-11T20:37:21.081843482Z"
